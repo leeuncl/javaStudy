@@ -17,6 +17,6 @@ public class AfterClassWork2{
 		if (chineseS >= mathS)
 			System.out.println("chineseScore is more" + (chineseS - mathS) + "than mathScore");
 		else
-			System.out.println("chineseScore isn't high than mathScore");
+			System.out.println("chineseScore isn't higher than mathScore");
 	}
 }
