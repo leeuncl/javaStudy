@@ -1,8 +1,10 @@
-###Scanner
+# Scanner
 
->Scanner input = new Scanner(System.in);
->String name = input.nextLine();
->String name = input.next();
+`
+Scanner input = new Scanner(System.in);
+String name = input.nextLine();
+String name = input.next();
+`
 
 在输入字符串时，有两种方法：
 * 如果使用input.nextLine()，那么就会读取Enter键之前输入的所有数据，包括有效数据之前或之后的空格，例如"  John "，那么name接收的值就是"  John "。
