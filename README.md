@@ -1,2 +1,2 @@
-# javaStudy
-practice1, about the Scannner of java
+# JavaStudy
+1. Scannner of java
